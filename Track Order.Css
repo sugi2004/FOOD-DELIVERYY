@@ -1,0 +1,30 @@
+.tracking {
+  background-color: #e3f2fd;
+  padding: 20px;
+  margin-top: 20px;
+  border-left: 5px solid #2196f3;
+  border-radius: 8px;
+  animation: slideIn 0.8s ease;
+}
+.tracking h3 {
+  margin-bottom: 10px;
+  color: #2196f3;
+}
+.tracking input {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.tracking button {
+  padding: 10px 15px;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.tracking button:hover {
+  background-color: #1976d2;
+}

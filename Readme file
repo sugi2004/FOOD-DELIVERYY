@@ -1,0 +1,24 @@
+# 🍔 Tomato - Food Delivery Website
+
+**Tomato** is a simple and responsive food delivery website created using only **HTML** and **CSS**. This project showcases the UI design of a food ordering platform, including various sections like a homepage, offers, menu, order tracking, and about us.
+
+## 🔧 Technologies Used
+
+- **HTML5** – Markup structure of the website  
+- **CSS3** – Styling and layout (Internal/External CSS)
+
+## 📂 Project Structure
+
+```bash
+Tomato-Food-Delivery/
+├── index.html           # Homepage
+├── offers.html          # Offers page
+├── menu.html            # Menu items with prices
+├── order.html           # Order tracking page
+├── about.html           # About the company
+├── contact.html         # Contact page
+├── header.html          # Reusable header (PHP include)
+├── footer.html          # Reusable footer (PHP include)
+├── css/
+│   └── style.css        # Main stylesheet
+└── images/              # Food and UI images
